@@ -1,0 +1,4 @@
+unwear
+wear
+uncorrect
+no_wear
